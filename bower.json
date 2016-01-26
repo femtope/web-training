@@ -1,0 +1,24 @@
+{
+  "name": "web-training",
+  "homepage": "https://github.com/musamusa/web-training",
+  "authors": [
+    "\"Femi Tope <femtope@gmail.com>\""
+  ],
+  "description": "web training",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "web",
+    "training"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
